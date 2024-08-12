@@ -9,8 +9,8 @@ import { useState } from 'react';  // Correct useState import
   Routes,
   Route
 } from "react-router-dom";
-used in div
-Router> 
+used functionApp in div
+<Router> 
       <Navbar title="Testutils" mode={mode} toggleMode={toggleMode} about="test" />
       <Alert alert={alert}/>
       <div className="container my-3">
